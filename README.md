@@ -2,7 +2,6 @@
 
 - 🎓 **Diploma di Tecnico Superiore** in Machine Learning e Intelligenza Artificiale (ITS Rizzoli)
 - 🏫 Attualmente studio **Informatica** all'Università del Piemonte Orientale
-- 🌱 Sto imparando **Intelligenza Artificiale & Machine Learning**
 - 👨‍💻 Tutti i miei progetti sono disponibili su [https://github.com/Marco57589](https://github.com/Marco57589)
 
 <h3 align="center">Linguaggi e Strumenti</h3>
